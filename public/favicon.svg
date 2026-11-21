@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a63d8"/><stop offset="1" stop-color="#8a5cf6"/></linearGradient>
+    <radialGradient id="c" cx="50%" cy="30%" r="70%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#cfe3ff"/></radialGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff59d"/><stop offset="1" stop-color="#ffb300"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="380" cy="130" r="56" fill="#ffd54f" opacity=".95"/>
+  <path d="M150 330 Q80 330 86 270 Q92 220 150 222 Q160 150 236 148 Q300 144 320 200 Q350 172 392 196 Q440 214 432 270 Q458 330 392 330 Z" fill="url(#c)"/>
+  <circle cx="220" cy="262" r="13" fill="#2b3a67"/><circle cx="310" cy="262" r="13" fill="#2b3a67"/>
+  <path d="M236 292 Q265 314 294 292" stroke="#2b3a67" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M262 340 L222 410 L258 410 L238 470 L310 380 L272 380 L296 340 Z" fill="url(#b)"/>
+</svg>
